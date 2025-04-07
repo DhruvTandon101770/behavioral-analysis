@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-socketio
+numpy
+scikit-learn
+pickle-mixin
+gunicorn
+mysql-connector-python
+Flask
+Flask-MySQLdb
+bcrypt
+Flask-JWT-Extended
