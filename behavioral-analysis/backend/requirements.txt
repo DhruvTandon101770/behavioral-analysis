@@ -7,6 +7,6 @@ pickle-mixin
 gunicorn
 mysql-connector-python
 Flask
-Flask-MySQLdb
+Flask-MySQLd
 bcrypt
 Flask-JWT-Extended
